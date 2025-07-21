@@ -24,15 +24,14 @@ Information also available on side meeting wiki: https://trello.com/b/R7yDMPyl
 - Find out if there is any interests in the community and any potential work that could be done in IETF.
 
 ## Agenda
-1.	Admin [10: 10/120] 
-2.	Use case and Requirements: Emile Stephan (Orange) [12: 22/120]
-                github: https://github.com/emile22/draft-stephan-ai-agent-6g
-3.	Internet of Agents Framework: Jonathan Rosenberg [12: 34/120]
-4.	Agent ID and Authentication: Kehan Yao (China Mobile). [12: 46/120]
-5.	Agent discovery(ANS): Vineeth Sai Narajala (Amazon Web Services). [12: 58/120]
-6.	Task-oriented Management for Agent: Chenguang Du (Zhongguancun Laboratory). [12: 70/120]
-7.	AI-Agent Protocol: Roy Ran (W3C). [12: 82/120]
-8.             Multimodal Management for AI Agent Protocols: Yanbiao Li(CNIC). [12: 94/120]
-8.	Discussion and next steps [26 : 120/120]
+1.	Meeting Admin [10: 10/120]
+2.	Summary of the side meeting in Tuesday: Jonathan Rosenberg [10: 320/120] 
+3.	Use case and Requirements: Emile Stephan (Orange) [10: 30/120]
+4.	Agent ID and Authentication: Kehan Yao (China Mobile). [10: 40/120]
+5.	Agent discovery(ANS): Vineeth Sai Narajala (Amazon Web Services). [10: 50/120]
+6.	Task-oriented Management for Agent: Chenguang Du (Zhongguancun Laboratory). [10: 60/120]
+7.	AI-Agent Protocol: Roy Ran (W3C). [10: 70/120]
+8.  Multimodal Management for AI Agent Protocols: Yanbiao Li(CNIC). [10: 80/120]
+9.	Discussion and next steps [40 : 120/120]
 
 Comments and suggestions are welcome. 
