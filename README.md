@@ -10,8 +10,8 @@ Information also available on side meeting wiki: https://trello.com/b/R7yDMPyl
 - https://ietf.webex.com/meet/ietfsidemeeting2
 
 ## Link to slides
-- https://github.com/PL-IETF/AI-Agent-Communication-Networking
-- [6G IA use cases](https://github.com/PL-IETF/AI-Agent-Communication-Networking/blob/main/02_ietf-123-session-slides_draft-stephan-ai-agent-6g-00-1st.pdf)
+- [opening](https://github.com/PL-IETF/AI-Agent-Communication-Networking)
+- [several 6G IA use cases](https://github.com/PL-IETF/AI-Agent-Communication-Networking/blob/main/02_ietf-123-session-slides_draft-stephan-ai-agent-6g-00-1st.pdf)
 
 ## Purpose:
 - Discuss the use cases, requirements, and some protocol directions of AI-Agent Communication Networking.
@@ -21,18 +21,18 @@ Information also available on side meeting wiki: https://trello.com/b/R7yDMPyl
 
 1. Meeting admin [10: 10/120]	            
 2. Summary of the side meeting in Tuesday: Jonathan Rosenberg [10: 20/120]
-3. Use case and Requirements:Emile Stephan (Orange) [10: 30/120]
+3. Use case and Requirements: Emile Stephan (Orange) [10: 30/120]
 https://datatracker.ietf.org/doc/draft-stephan-ai-agent-6g/ 
-4. Agent ID and Authentication:Kehan Yao (China Mobile)
+4. Agent ID and Authentication: Kehan Yao (China Mobile)
 https://datatracker.ietf.org/doc/draft-yl-agent-id-requirements/ 
 https://datatracker.ietf.org/doc/draft-yao-agent-auth-considerations/ 
-6. Agent discovery:Vineeth Sai Narajala (Amazon Web Services)
+6. Agent discovery: Vineeth Sai Narajala (Amazon Web Services)
 https://datatracker.ietf.org/doc/draft-narajala-ans/
-7. Task-oriented Management:Chenguang Du (Zhongguancun Laboratory)
+7. Task-oriented Management: Chenguang Du (Zhongguancun Laboratory)
 https://datatracker.ietf.org/doc/draft-cui-ai-agent-task/ 
-8. Agent protocol:Roy Ran (W3C)
-9. Multimodal Management for AI Agent Protocols:Yanbiao Li(CNIC)
+8. Agent protocol: Roy Ran (W3C)
+9. Multimodal Management for AI Agent Protocols: Yanbiao Li (CNIC)
 https://datatracker.ietf.org/doc/draft-xie-ai-agent-multimodal/ 
-10. Open Discussion	                         All
+10. Open Discussion	All
 
-Comments and suggestions are welcome. 
+Comments and suggestions are welcome.
