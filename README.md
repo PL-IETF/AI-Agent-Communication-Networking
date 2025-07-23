@@ -11,6 +11,7 @@ Information also available on side meeting wiki: https://trello.com/b/R7yDMPyl
 
 ## Link to slides
 - https://github.com/PL-IETF/AI-Agent-Communication-Networking
+- [6G IA use cases](https://github.com/PL-IETF/AI-Agent-Communication-Networking/blob/main/02_ietf-123-session-slides_draft-stephan-ai-agent-6g-00-1st.pdf)
 
 ## Purpose:
 - Discuss the use cases, requirements, and some protocol directions of AI-Agent Communication Networking.
